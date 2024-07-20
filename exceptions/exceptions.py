@@ -1,0 +1,3 @@
+
+class CannotSelectThatColumn(Exception):
+    pass
